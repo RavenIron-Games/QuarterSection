@@ -55,7 +55,10 @@ and sow winter wheat: drilled from mid September, standing ripe on 15 June, cut 
 shuts on 10 July, threshed until the end of August. What is not cut in its window is lost for the
 year. An eighth build track runs from the walking plough to the autonomous rig, each rung cutting
 the hours an acre takes, and a machine's keep runs at about a seventh of its price a year, which is
-what makes buying it before you have the acres a trap.
+what makes buying it before you have the acres a trap. From the 1900s the seed goes on the merchant's
+account when the tin cannot pay for it, and the elevator settles the account first when the crop is sold;
+the account falls due with the county's due on the New Year after the harvest, and the merchant carries no
+second crop while the first is unpaid.
 
 **The cart asks what goes on it.** Name the bushels of wheat and the days of food and the prompt
 tells you what the load fetches and the hours the road takes out of the days that follow. Since
@@ -99,7 +102,7 @@ Open an issue with three things from the title and naming screens, and what happ
 - the **land's number**, the number you gave the family
 - the **year**
 
-> *"0.12.4, land 17, 1903, the county's due card said I owed twelve dollars I had"*
+> *"0.13.0, land 17, 1903, the county's due card said I owed twelve dollars I had"*
 
 That is enough to replay the exact run.
 
@@ -117,6 +120,7 @@ that felt unfair.
 
 | Version | Date | What changed |
 |---|---|---|
+| 0.13.0 | 2026-09-09 | Seed on credit: from the 1900s the merchant carries the seed bill until the elevator settles it, and the steward hauls the crop by the hours. |
 | 0.12.4 | 2026-09-08 | The sale pays the fare: a cart with something to sell goes from an empty tin. The books close, the trip line is honest, and the title carries a dedication. |
 | 0.12.3 | 2026-09-08 | The children's order is a tick-box and a count. Nought means no more, and the order holds in every decade. |
 | 0.12.2 | 2026-09-08 | The browser player starts at a 256 MB heap, which fixed the crash on 0.12.1. |
