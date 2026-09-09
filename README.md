@@ -6,6 +6,8 @@ that stops to ask.
 A standalone historical life-sim by **Raven Iron**. The source lives in a separate private
 repository; this one holds **releases only**.
 
+Made for Skadi.
+
 ---
 
 ## Play it
@@ -58,7 +60,7 @@ what makes buying it before you have the acres a trap.
 **The cart asks what goes on it.** Name the bushels of wheat and the days of food and the prompt
 tells you what the load fetches and the hours the road takes out of the days that follow. Since
 0.12.0 a named sale may run to several loads, capped by the hands you can spare before the next
-weekly trip and by the fares the tin holds.
+weekly trip; since 0.12.4 the sale pays the fare, so an empty tin can still send its cellar to town.
 
 **The clock stops to ask.** A fever, the first snow with the pile short, the harvest week with a
 thin larder, the county's due the tin could not cover. The game stops and offers one to four
@@ -97,7 +99,7 @@ Open an issue with three things from the title and naming screens, and what happ
 - the **land's number**, the number you gave the family
 - the **year**
 
-> *"0.12.3, land 17, 1903, the county's due card said I owed twelve dollars I had"*
+> *"0.12.4, land 17, 1903, the county's due card said I owed twelve dollars I had"*
 
 That is enough to replay the exact run.
 
@@ -115,6 +117,7 @@ that felt unfair.
 
 | Version | Date | What changed |
 |---|---|---|
+| 0.12.4 | 2026-09-08 | The sale pays the fare: a cart with something to sell goes from an empty tin. The books close, the trip line is honest, and the title carries a dedication. |
 | 0.12.3 | 2026-09-08 | The children's order is a tick-box and a count. Nought means no more, and the order holds in every decade. |
 | 0.12.2 | 2026-09-08 | The browser player starts at a 256 MB heap, which fixed the crash on 0.12.1. |
 | 0.12.1 | 2026-09-08 | The log bar at the foot of the screen grew, with its text a size up. |
