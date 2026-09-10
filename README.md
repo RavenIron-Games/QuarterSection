@@ -44,8 +44,11 @@ town, the car cuts the road to three hours, the wire reaches the street, and the
 troubles arrive on schedule: the flu of 1918, the crash, the wars, the long summer.
 
 **The land is yours to add to, or to part with.** Five years' residence earns the patent. From then
-the build list offers the north forty for cash and the west forty for sale at four-fifths of what
-the acres are worth, and once a decade a neighbour quits and offers their forty on a note: a third
+the build list offers the west forty for sale at four-fifths of what the acres are worth, and offers
+the north forty for cash when buying it would be more than spending: not while a parcel of your own
+grass lies unbroken, not while the hands cannot cut what is already ploughed, and not when the price
+would leave the tin short of January. The row says what it leaves behind before you take it. Once a
+decade a neighbour quits and offers their forty on a note whatever the place looks like: a third
 down, the January payment taken before the county's due, and three missed Januaries in a row and the
 note is called in and the parcel goes back. Tax follows the acres you hold, and the estate's worth
 sits on the place line.
@@ -102,7 +105,7 @@ Open an issue with three things from the title and naming screens, and what happ
 - the **land's number**, the number you gave the family
 - the **year**
 
-> *"0.13.0, land 17, 1903, the county's due card said I owed twelve dollars I had"*
+> *"0.14.0, land 17, 1903, the county's due card said I owed twelve dollars I had"*
 
 That is enough to replay the exact run.
 
@@ -120,6 +123,7 @@ that felt unfair.
 
 | Version | Date | What changed |
 |---|---|---|
+| 0.14.0 | 2026-09-10 | The build list will not sell you grass you already own: the north forty answers to the same rules the household's own steward keeps, and the row says what it leaves in the tin against January. A thousand acres of prairie a spring. |
 | 0.13.0 | 2026-09-09 | Seed on credit: from the 1900s the merchant carries the seed bill until the elevator settles it, and the steward hauls the crop by the hours. |
 | 0.12.4 | 2026-09-08 | The sale pays the fare: a cart with something to sell goes from an empty tin. The books close, the trip line is honest, and the title carries a dedication. |
 | 0.12.3 | 2026-09-08 | The children's order is a tick-box and a count. Nought means no more, and the order holds in every decade. |
