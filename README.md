@@ -105,7 +105,7 @@ Open an issue with three things from the title and naming screens, and what happ
 - the **land's number**, the number you gave the family
 - the **year**
 
-> *"0.14.1, land 17, 1903, the county's due card said I owed twelve dollars I had"*
+> *"0.15.0, land 17, 1903, the county's due card said I owed twelve dollars I had"*
 
 That is enough to replay the exact run.
 
@@ -123,6 +123,7 @@ that felt unfair.
 
 | Version | Date | What changed |
 |---|---|---|
+| 0.15.0 | 2026-09-11 | Hire the threshing ring. When the wheat is ripe and the house cannot cut it, the card offers the neighbours' rig for a share of the crop and no cash at all - and it asks far earlier in the reap than it used to, usually the day the wheat stands up. |
 | 0.14.1 | 2026-09-10 | When the north forty is refused, the row now says why instead of quietly disappearing. |
 | 0.14.0 | 2026-09-10 | The build list will not sell you grass you already own: the north forty answers to the same rules the household's own steward keeps, and the row says what it leaves in the tin against January. A thousand acres of prairie a spring. |
 | 0.13.0 | 2026-09-09 | Seed on credit: from the 1900s the merchant carries the seed bill until the elevator settles it, and the steward hauls the crop by the hours. |
