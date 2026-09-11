@@ -105,7 +105,7 @@ Open an issue with three things from the title and naming screens, and what happ
 - the **land's number**, the number you gave the family
 - the **year**
 
-> *"0.15.0, land 17, 1903, the county's due card said I owed twelve dollars I had"*
+> *"0.16.0, land 17, 1903, the county's due card said I owed twelve dollars I had"*
 
 That is enough to replay the exact run.
 
@@ -123,6 +123,7 @@ that felt unfair.
 
 | Version | Date | What changed |
 |---|---|---|
+| 0.16.0 | 2026-09-11 | The game can now be finished. Reach the 2060s and the run closes on the century the title promised, with an accounting of the whole of it: the generations, the born and the buried, the ground broken, the wheat got in, and what the place came to against the $1,890.25 the first of them stood up with. A family that held the place keeps its save. |
 | 0.15.0 | 2026-09-11 | Hire the threshing ring. When the wheat is ripe and the house cannot cut it, the card offers the neighbours' rig for a share of the crop and no cash at all - and it asks far earlier in the reap than it used to, usually the day the wheat stands up. |
 | 0.14.1 | 2026-09-10 | When the north forty is refused, the row now says why instead of quietly disappearing. |
 | 0.14.0 | 2026-09-10 | The build list will not sell you grass you already own: the north forty answers to the same rules the household's own steward keeps, and the row says what it leaves in the tin against January. A thousand acres of prairie a spring. |
