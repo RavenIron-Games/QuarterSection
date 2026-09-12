@@ -105,7 +105,7 @@ Open an issue with three things from the title and naming screens, and what happ
 - the **land's number**, the number you gave the family
 - the **year**
 
-> *"0.16.0, land 17, 1903, the county's due card said I owed twelve dollars I had"*
+> *"0.16.1, land 17, 1903, the county's due card said I owed twelve dollars I had"*
 
 That is enough to replay the exact run.
 
@@ -123,6 +123,7 @@ that felt unfair.
 
 | Version | Date | What changed |
 |---|---|---|
+| 0.16.1 | 2026-09-12 | The game saves itself while you play, twice a minute, and again when the window loses focus. Before this it saved only at the turn of a season and after a card you answered - and a browser never tells a game that its tab is closing, so anything you did in between was lost. In the browser you could lose a whole season; now at most half a minute. |
 | 0.16.0 | 2026-09-11 | The game can now be finished. Reach the 2060s and the run closes on the century the title promised, with an accounting of the whole of it: the generations, the born and the buried, the ground broken, the wheat got in, and what the place came to against the $1,890.25 the first of them stood up with. A family that held the place keeps its save. |
 | 0.15.0 | 2026-09-11 | Hire the threshing ring. When the wheat is ripe and the house cannot cut it, the card offers the neighbours' rig for a share of the crop and no cash at all - and it asks far earlier in the reap than it used to, usually the day the wheat stands up. |
 | 0.14.1 | 2026-09-10 | When the north forty is refused, the row now says why instead of quietly disappearing. |
